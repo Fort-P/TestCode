@@ -7,13 +7,11 @@ A python library that allows you to easily test functions in your code
 ## Installation
 Install with pip:
 ```powershell
-pip install TestCode
+pip install codetesting
 ```
 
 ## Usage
 Import the code at the top of your file:
 ```python
-from TestCode.TestCode import testCode
+from testCode.testCode import testCode
 ```
-
-### [Github](https://github.com/Fort-p/TestCode)
