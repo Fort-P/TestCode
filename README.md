@@ -7,7 +7,7 @@ A python library that allows you to easily test functions in your code
 ## Installation
 Install with pip:
 ```powershell
-pip install codetesting
+pip install functiontester
 ```
 
 ## Usage
