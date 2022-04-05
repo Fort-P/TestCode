@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='functiontester',
-    packages='testcode',
-    version='0.1.0',
+    name='FunctionTester',
+    packages=['functiontester'],
+    version='0.1.1',
     url='https://github.com/Fort-P/functiontester',
     description='A python library that allows you to easily test functions in your code',
     long_description=long_description,

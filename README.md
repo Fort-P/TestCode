@@ -1,4 +1,4 @@
-# TestCode
+# Function Tester
 A python library that allows you to easily test functions in your code
 
 ## Authors
@@ -13,5 +13,5 @@ pip install functiontester
 ## Usage
 Import the code at the top of your file:
 ```python
-from testCode.testCode import testCode
+from functiontester.functiontester import testCode
 ```
